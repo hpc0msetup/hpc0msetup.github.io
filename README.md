@@ -1,6 +1,6 @@
 #  123.hp.com/setup
 
-[![123.hp.com/setup](getstaredd.png)](http://hp123-setup.s3-website-us-west-1.amazonaws.com)
+[![123.hp.com/setup](image-removebg.png)](http://hp123-setup.s3-website-us-west-1.amazonaws.com)
 
 
 HP Printers are the most trusted and useful printer brand that helps the users to enjoy high-quality printing and installation facility. It is capable of connecting with different devices like computer/laptop, mac, smartphone, etc. Download HP Driver Using [123.hp.com/setup](https://hpc0msetup.github.io/) & Learn wireless hp com printer setup.
